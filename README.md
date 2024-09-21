@@ -53,4 +53,4 @@ To run the project, you need the following:
     - **Common Issues and Troubleshooting**
     FileNotFoundError: If Stockfish cannot be found, double-check the path where you placed the engine and update the notebook accordingly.
     EngineError (UCI_Elo): Make sure you set the Stockfish Elo rating to at least 1320.
-    Slow Performance: Neural network computations can be slow on local machines without or with a bad GPU.
+    Slow Performance: Neural network computations can be slow on local machines without or with a bad GPU
